@@ -1,0 +1,9 @@
+body {
+  margin: 0;
+  font-family: 'Segoe UI', Helvetica, Arial;
+  overflow-y: hidden;
+}
+
+/* 
+  overflow-y: hidden; não tem scroll vertical
+*/
